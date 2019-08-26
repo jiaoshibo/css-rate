@@ -6,7 +6,7 @@
 
 ## Demo
 
-[https://github.com/jiaoshibo/css-rate](https://github.com/jiaoshibo/css-rate)
+[https://jiaoshibo.github.io/css-rate/](https://jiaoshibo.github.io/css-rate/)
 
 ## 原理
 
