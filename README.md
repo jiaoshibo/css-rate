@@ -4,6 +4,10 @@
 
 ![效果图](https://user-gold-cdn.xitu.io/2019/8/17/16c9d924566238de?imageslim)
 
+## Demo
+
+[https://github.com/jiaoshibo/css-rate](https://github.com/jiaoshibo/css-rate)
+
 ## 原理
 
 1. 找一个好看的 `iconfont` ，比如[阿里巴巴矢量图标库](https://www.iconfont.cn/)
